@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0295-find-median-from-data-stream) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
