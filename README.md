@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Prefix Sum
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0295-find-median-from-data-stream) |
 ## Design
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 ## Array
