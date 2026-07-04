@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -102,4 +103,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Union-Find
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Graph Theory
+|  |
+| ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
