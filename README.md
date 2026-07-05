@@ -140,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
