@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
