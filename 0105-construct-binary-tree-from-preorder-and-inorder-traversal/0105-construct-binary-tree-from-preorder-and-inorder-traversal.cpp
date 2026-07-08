@@ -16,8 +16,7 @@ TreeNode*  solve(vector<int>& preorder, vector<int>& inorder, int st, int end, i
 
     TreeNode* root = new TreeNode(preorder[idx]);
 
-    int i = st;
-
+int i = st;
     for(; i<= end; i++){
         if(inorder[i] == preorder[idx])
          break;
