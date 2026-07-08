@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0199-binary-tree-right-side-view) |
