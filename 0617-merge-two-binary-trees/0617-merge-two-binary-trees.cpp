@@ -11,21 +11,17 @@
  */
 class Solution {
 public:
-    TreeNode* dfs(TreeNode* node1, TreeNode* node2){
-        if(!node1 and !node2)return nullptr;
-        int num=0;
-        if(!node1) num+= node2->val;
-        else if(!node2) num+=node1->val;
-        else num+=node1->val+node2->val;
-
-        TreeNode* curr=new TreeNode(num);
-        curr->left=dfs((node1)?node1->left:nullptr,(node2)?node2->left:nullptr);
-        curr->right=dfs((node1)?node1->right:nullptr,(node2)?node2->right:nullptr);
-
-        return curr;
-    }
-    
     TreeNode* mergeTrees(TreeNode* root1, TreeNode* root2) {
-        return dfs(root1,root2);
+        if(!root1 && !root2) return NULL;
+
+        else if(!root1 && root2) return root2;
+        else if(!root2 && root1) return root1;
+
+        TreeNode* root = new TreeNode(root1->val + root2->val);
+        root->left = mergeTrees(root1->left, root2->left);
+        root->right= mergeTrees(root1->right, root2->right);
+
+        return root;
+
     }
 };
