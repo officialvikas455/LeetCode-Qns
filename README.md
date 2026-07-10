@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0700-search-in-a-binary-search-tree) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -244,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0700-search-in-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
