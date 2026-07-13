@@ -9,41 +9,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-class info {
-public:
-    bool isbst;
-    int min;
-    int max;
-    int sum;
-};
+class Node{
+    public :
+    int maxNode,minNode,Sum;
 
+    Node(int minNode,int maxNode,int Sum){
+        this->maxNode = maxNode;
+        this->minNode = minNode;
+        this->Sum = Sum;
+    }
+};
 class Solution {
 public:
-    info largebst(TreeNode* root, int &ans) {
-        if (root == NULL) {
-            return {true, INT32_MAX, INT32_MIN, 0};
+    int ans = 0;
+    Node helper(TreeNode* root){
+        if(!root) return Node(INT_MAX,INT_MIN,0);
+        auto left = helper(root->left);
+        auto right = helper(root->right);
+
+        if(left.maxNode < root->val && right.minNode > root->val){
+            int curSum = left.Sum + right.Sum + root->val;
+            ans = max(ans,curSum);
+            return Node(min(root->val,left.minNode),max(root->val,right.maxNode),curSum);
         }
-
-        info left = largebst(root->left, ans);
-        info right = largebst(root->right, ans);
-
-        info curr;
-        curr.sum = left.sum + right.sum + root->val;
-        curr.min = min(root->val, left.min);
-        curr.max = max(root->val, right.max);
-        curr.isbst = left.isbst && right.isbst && 
-                     root->val > left.max && root->val < right.min;
-
-        if (curr.isbst) {
-            ans = max(ans, curr.sum);
-        }
-
-        return curr;
+        return Node(INT_MIN,INT_MAX,0);
     }
-
     int maxSumBST(TreeNode* root) {
-        int maxsum = 0;
-        largebst(root, maxsum);
-        return maxsum;
+        helper(root);
+        return ans;
     }
 };
