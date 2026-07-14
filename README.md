@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0198-house-robber](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
