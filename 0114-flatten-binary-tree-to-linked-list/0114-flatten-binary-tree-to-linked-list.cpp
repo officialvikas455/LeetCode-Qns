@@ -12,7 +12,7 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        if (root == nullptr) return;
+        if (root == NULL) return;
         
         stack<TreeNode*> st;
         st.push(root);
@@ -21,14 +21,14 @@ public:
             TreeNode* curr = st.top();
             st.pop();
             
-            if (curr->right != nullptr) st.push(curr->right);
-            if (curr->left != nullptr) st.push(curr->left);
+            if (curr->right != NULL) st.push(curr->right);
+            if (curr->left != NULL) st.push(curr->left);
             
             if (!st.empty()) {
                 curr->right = st.top();
             }
             
-            curr->left = nullptr;
+            curr->left = NULL ;
         }
     }
 };
