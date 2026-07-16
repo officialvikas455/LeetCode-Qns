@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0198-house-robber) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0100-same-tree) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0100-same-tree) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0047-permutations-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 ## Iterator
 |  |
 | ------- |
