@@ -11,27 +11,30 @@
  */
 class Solution {
 public:
+    unordered_map<int, vector<TreeNode*>> memo;
+
     vector<TreeNode*> allPossibleFBT(int n) {
-        if (n % 2 == 0) {
-            return {};
-        }
+        if (n % 2 == 0) return {}; 
+        
+        if (n == 1) return {new TreeNode(0)};
+        
+        if (memo.find(n) != memo.end()) return memo[n];
 
-        vector<TreeNode*> list;
-        if (n == 1) {
-            list.push_back(new TreeNode(0));
-        } else {
-            for (int i = 1; i <= n - 1; i += 2) {
-                vector<TreeNode*> lTrees = allPossibleFBT(i);
-                vector<TreeNode*> rTrees = allPossibleFBT(n - i - 1);
+        vector<TreeNode*> result;
 
-                for (TreeNode* lt : lTrees) {
-                    for (TreeNode* rt : rTrees) {
-                        list.push_back(new TreeNode(0, lt, rt));
-                    }
+        for (int i = 1; i < n; i += 2) {
+            vector<TreeNode*> leftAllFBT = allPossibleFBT(i);
+            vector<TreeNode*> rightAllFBT = allPossibleFBT(n - i - 1);
+
+            for (auto& l : leftAllFBT) {
+                for (auto& r : rightAllFBT) {
+                    TreeNode* root = new TreeNode(0);
+                    root->left = l;
+                    root->right = r;
+                    result.push_back(root);
                 }
             }
         }
-
-        return list;
+        return memo[n] = result;
     }
 };
