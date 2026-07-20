@@ -20,25 +20,33 @@ public:
         vector<vector<int>>(2, vector<int>(3, 0))
     );
 
+        vector<vector<int>> prev(2, vector<int>(3, 0));
+        
+
+
+
+
     for (int i = n - 1; i >= 0; i--) {
+        vector<vector<int>> curr(2, vector<int>(3, 0));
         for (int buy = 0; buy <= 1; buy++) {
             for (int cap = 1; cap <= 2; cap++) {
 
                 if (buy) {
-                    dp[i][buy][cap] = max(
-                        -prices[i] + dp[i + 1][0][cap],   // Buy
-                        dp[i + 1][1][cap]                  // Skip
+                   curr[buy][cap] = max(
+                        -prices[i] + prev[0][cap],   // Buy
+                        prev[1][cap]                  // Skip
                     );
                 } else {
-                    dp[i][buy][cap] = max(
-                        prices[i] + dp[i + 1][1][cap - 1], // Sell
-                        dp[i + 1][0][cap]                  // Skip
+                   curr[buy][cap] = max(
+                        prices[i] + prev[1][cap - 1], // Sell
+                        prev[0][cap]                  // Skip
                     );
                 }
             }
         }
+        prev = curr;
     }
 
-    return dp[0][1][2];
+    return prev[1][2];
 }
 };
