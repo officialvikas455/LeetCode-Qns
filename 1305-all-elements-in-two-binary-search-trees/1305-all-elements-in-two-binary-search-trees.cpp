@@ -15,8 +15,9 @@ public:
     void solve(TreeNode* root, vector<int>& ans) {
         if (root == NULL)
             return;
-        ans.push_back(root->val);
+       
         solve(root->left, ans);
+        ans.push_back(root->val);
         solve(root->right, ans);
     }
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
