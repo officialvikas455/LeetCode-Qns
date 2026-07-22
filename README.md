@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0064-minimum-path-sum) |
+| [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0120-triangle) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0020-valid-parentheses) |
+| [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
