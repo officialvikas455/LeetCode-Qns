@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0894-all-possible-full-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0894-all-possible-full-binary-trees) |
 | [0983-minimum-cost-for-tickets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1043-partition-array-for-maximum-sum) |
+| [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 ## Array
 |  |
 | ------- |
