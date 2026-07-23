@@ -27,7 +27,7 @@ public:
         int totSum = 0;
 
       for(int i=0; i<n; i++)  totSum += nums[i];
-      if(totSum % 2 ) return false;
+      if(totSum % 2 != 0 ) return false;
       int target = totSum/2;
 
       return f(n, target, nums);
