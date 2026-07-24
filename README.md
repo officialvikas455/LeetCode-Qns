@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
