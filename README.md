@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
