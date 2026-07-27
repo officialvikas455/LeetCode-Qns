@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Data Stream
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1043-partition-array-for-maximum-sum) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
