@@ -1,17 +1,29 @@
+// class Solution {
+// public:
+//     int lengthOfLastWord(string s) {
+//         int n = s.length();
+//         int cnt = 0;
+
+//         for (int i = n - 1; i >= 0; i--) {
+//             if (s[i] != ' ') {
+//                 cnt++;
+//             } else if (cnt > 0) {
+//                 break;
+//             }
+//         }
+
+
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        int n = s.length();
-        int cnt = 0;
+        int i = s.size() - 1, cnt = 0;
 
-        for (int i = n - 1; i >= 0; i--) {
-            if (s[i] != ' ') {
-                cnt++;
-            } else if (cnt > 0) {
-                break;
-            }
-        }
+        while (i >= 0 && s[i] == ' ') i--;
+        while (i >= 0 && s[i] != ' ') cnt++, i--;
 
         return cnt;
     }
 };
+//         return cnt;
+//     }
+// };
