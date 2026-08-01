@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
+| [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0894-all-possible-full-binary-trees) |
 ## Memoization
 |  |
@@ -519,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
