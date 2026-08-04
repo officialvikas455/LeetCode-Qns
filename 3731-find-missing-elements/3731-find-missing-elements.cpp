@@ -23,13 +23,9 @@
 //     }
 // };
 
-
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
-    vector<int> findMissingElements(vector<int>& nums) {
+    vector<int> findMissingElements(vector<int>& nums) {       
         int mn = *min_element(nums.begin(), nums.end());
         int mx = *max_element(nums.begin(), nums.end());
 
@@ -37,7 +33,7 @@ public:
         vector<int> ans;
 
         for (int i = mn; i <= mx; i++) {
-            if (!st.count(i)) {
+            if(!st.count(i)){
                 ans.push_back(i);
             }
         }
