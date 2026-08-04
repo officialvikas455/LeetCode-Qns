@@ -1,41 +1,64 @@
-#include <bits/stdc++.h>
-using namespace std;
+// class Solution {
+// public:
+//     const int INF = 1e9;
 
-#include <bits/stdc++.h>
-using namespace std;
+//     int solve(vector<int>& stones, int i, vector<int>& dp) {
+//         int n = stones.size();
+
+//         if (i >= n) return 0;
+
+//         if (dp[i] != -INF) return dp[i];
+
+//         int first = stones[i] - solve(stones, i + 1, dp);
+
+//         int second = -INF;
+//         if (i + 1 < n) {
+//             second = stones[i] + stones[i + 1]
+//                    - solve(stones, i + 2, dp);
+//         }
+
+//         int third = -INF;
+//         if (i + 1 < n && i + 2 < n) {
+//             third = stones[i] + stones[i + 1] + stones[i + 2]
+//                   - solve(stones, i + 3, dp);
+//         }
+
+//         return dp[i] = max({first, second, third});
+//     }
+
+//     string stoneGameIII(vector<int>& stoneValue) {
+//         int n = stoneValue.size();
+//         vector<int> dp(n, -INF);
+
+//         int score = solve(stoneValue, 0, dp);
+
+//         if (score > 0) return "Alice";
+//         else if (score < 0) return "Bob";
+//         return "Tie";
+//     }
+// };
+
 
 class Solution {
 public:
-    int solve(int i, vector<int>& stoneValue, vector<int>& dp) {
-        int n = stoneValue.size();
-
-        // no stones left
-        if (i >= n) return 0;
-
-        if (dp[i] != INT_MIN) return dp[i];
-
-        int take = 0;
-        int best = INT_MIN;
-
-        // take 1, 2, or 3 stones
-        for (int k = 0; k < 3 && i + k < n; k++) {
-            take += stoneValue[i + k];
-
-            best = max(best, take - solve(i + k + 1, stoneValue, dp));
-        }
-
-        return dp[i] = best;
-    }
-
     string stoneGameIII(vector<int>& stoneValue) {
         int n = stoneValue.size();
+        const int NEG_INF = -1e9;
 
-        vector<int> dp(n, INT_MIN);
+        vector<int> dp(n + 1, 0);   // dp[n] = 0 (base case)
+        for (int i = n - 1; i >= 0; i--) {
+            int best = NEG_INF;
+            int take = 0;
+            for (int k = 0; k < 3 && i + k < n; k++) {
+                take += stoneValue[i + k];
+                best = max(best, take - dp[i + k + 1]);
+            }
+            dp[i] = best;
+        }
 
-        int diff = solve(0, stoneValue, dp);
-
-        if (diff > 0) return "Alice";
-        if (diff < 0) return "Bob";
+        int score = dp[0];
+        if (score > 0) return "Alice";
+        else if (score < 0) return "Bob";
         return "Tie";
     }
 };
