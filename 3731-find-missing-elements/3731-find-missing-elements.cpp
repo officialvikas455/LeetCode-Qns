@@ -29,7 +29,7 @@ public:
         int mn = *min_element(nums.begin(), nums.end());
         int mx = *max_element(nums.begin(), nums.end());
 
-        unordered_set<int> st(nums.begin(), nums.end());
+        unordered_set<int> st(nums.begin(), nums.end()); // copy of the nums 
         vector<int> ans;
 
         for (int i = mn; i <= mx; i++) {
