@@ -7,7 +7,7 @@ public:
         int res = 1;
 
         for(int i=1; i<n; i++){
-            for(int j = 0; j < i; j++){
+            for(int j = i-1; j >=0 ; j--){
                 if(nums[j] < nums[i]){
                     LIS[i] = max(LIS[i], 1 + LIS[j]);
                 }
