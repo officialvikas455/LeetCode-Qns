@@ -1,54 +1,69 @@
-constexpr int MAXN = 100005;
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
-        vector<vector<int>> edges(n);
+        vector<vector<int>> adj(n);
         vector<int> inDegree(n, 0);
+        vector<bool> suspicious(n, false);
 
-        bitset<MAXN> sus;
-
-        for (const auto& inv : invocations) {
-            edges[inv[0]].push_back(inv[1]);
-            inDegree[inv[1]]++;
+        // Build graph
+        for (auto &edge : invocations) {
+            int u = edge[0];
+            int v = edge[1];
+            adj[u].push_back(v);
+            inDegree[v]++;
         }
 
-        queue<int> q;
-        q.push(k);
+        // BFS from k
+        queue<int> que;
+        que.push(k);
+        suspicious[k] = true;
 
-        sus.set(k);
+        while (!que.empty()) {
+            int curr = que.front();
+            que.pop();
 
-        while (!q.empty()) {
-            int u = q.front();
-            q.pop();
-            for (int v : edges[u]) {
-                inDegree[v]--;
-
-                if (!sus.test(v)) {
-                    q.push(v);
-                    sus.set(v);
+            for (int ngbr : adj[curr]) {
+                if (!suspicious[ngbr]) {
+                    suspicious[ngbr] = true;
+                    que.push(ngbr);
                 }
             }
         }
 
-        bool canRemoveAll = true;
-        vector<int> rem;
+        // If a suspicious node has an incoming edge
+        // from a non-suspicious node, we cannot remove them
+        bool cannotRemove = false;
 
-        for (int i = 0; i < n; i++) {
-            if (sus.test(i) && inDegree[i] > 0) {
-                canRemoveAll = false;
+        for (auto &edge : invocations) {
+            int u = edge[0];
+            int v = edge[1];
+
+            if (!suspicious[u] && suspicious[v]) {
+                cannotRemove = true;
                 break;
-            } else if (!sus.test(i)) {
-                rem.push_back(i);
             }
         }
 
-        if (!canRemoveAll) {
-            vector<int> allNodes(n);
-            iota(allNodes.begin(), allNodes.end(), 0);
-            return allNodes;
+        // Return all methods if removal is impossible
+        if (cannotRemove) {
+            vector<int> vec;
+            for (int i = 0; i < n; i++) {
+                vec.push_back(i);
+            }
+            return vec;
         }
 
-        return rem;
+        // Otherwise return remaining (non-suspicious) methods
+        vector<int> result;
+        for (int i = 0; i < n; i++) {
+            if (!suspicious[i]) {
+                result.push_back(i);
+            }
+        }
+
+        return result;
     }
 };
