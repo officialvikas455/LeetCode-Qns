@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
@@ -560,4 +562,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0300-longest-increasing-subsequence) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
