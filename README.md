@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
@@ -567,8 +569,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Pigeonhole Principle
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
