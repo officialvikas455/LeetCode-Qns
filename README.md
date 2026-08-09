@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0983-minimum-cost-for-tickets) |
 | [1043-partition-array-for-maximum-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1043-partition-array-for-maximum-sum) |
 | [1092-shortest-common-supersequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-prime-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0983-minimum-cost-for-tickets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1043-partition-array-for-maximum-sum) |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
@@ -572,14 +576,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 ## Longest Increasing Subsequence
 |  |
