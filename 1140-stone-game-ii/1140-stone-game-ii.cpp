@@ -1,30 +1,35 @@
 class Solution {
-    int dfs(int i, int m, vector<int>& piles, unordered_map<int, int>& memo) {
-        int n = piles.size();
-        if (i + m * 2 >= n)
-            return piles[i];
-
-        int key = (i << 8) | m;
-        if (memo.count(key))
-            return memo[key];
-
-        int res = 2000000000;
-        for (int k = 1; k <= m * 2; k++)
-            res = min(res, dfs(i + k, max(m, k), piles, memo));
-
-        memo[key] = piles[i] - res;
-
-        return memo[key];
-    }
-
 public:
+int n;
+int t[2][1001][101];
+  int solveForAlice(vector<int>& piles, int person, int i, int M){
+    if(i >= n)
+    return 0;
+    if(t[person][i][M] != -1) return t[person][i][M];
+
+    int result = (person == 1) ? -1 : INT_MAX;
+    int stones = 0;
+
+
+    for(int x=1; x<= min(2*M,n-i); x++){
+        stones += piles[i+x-1];
+
+
+        if(person == 1){ // Alice
+            result = max(result,stones + solveForAlice(piles,0,i+x, max(M,x)));
+
+        }else{//Bob
+            result = min(result, solveForAlice(piles,1, i+x,max(M,x)));
+
+        }
+    }
+    return t[person][i][M] = result;
+
+  }
     int stoneGameII(vector<int>& piles) {
-        int n = piles.size();
-        for (int i = n - 2; i >= 0; i--)
-            piles[i] += piles[i + 1];
+        memset(t,-1,sizeof(t));
+        n = piles.size();
 
-        unordered_map<int, int> memo;
-
-        return dfs(0, 1, piles, memo);
+        return solveForAlice(piles,1,0,1);
     }
 };
