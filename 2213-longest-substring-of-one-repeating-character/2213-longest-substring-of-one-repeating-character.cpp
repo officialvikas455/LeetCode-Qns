@@ -1,82 +1,82 @@
 class Solution {
 public:
+    struct Node {
+        int pre = 0; 
+        int suf = 0;
+        int maxLen = 0;
+        char leftChar = 0;
+        char rightChar = 0;
+    };
+
+    int n;
+    vector<Node> segTree; //segmen tree size 4*n
+
+    Node merge(const Node& L, const Node& R, int leftLen, int rightLen) {
+        Node res;
+
+        res.leftChar  = L.leftChar;
+        res.rightChar = R.rightChar;
+
+        res.pre = L.pre;
+        if (L.pre == leftLen && L.rightChar == R.leftChar) {
+            res.pre = L.pre + R.pre;
+        }
+
+        res.suf = R.suf;
+        if (R.suf == rightLen && L.rightChar == R.leftChar) {
+            res.suf = R.suf + L.suf;
+        }
+
+        res.maxLen = max(L.maxLen, R.maxLen);
+        if (L.rightChar == R.leftChar) {
+            res.maxLen = max(res.maxLen, L.suf + R.pre);
+        }
+
+        return res;
+    }
+
+    void buildSegmentTree(int i, int l, int r, string& s) {
+        if (l == r) {
+            segTree[i] = { 1, 1, 1, s[l], s[l] };
+            return;
+        }
+        int mid = l + (r - l) / 2;
+        buildSegmentTree(2 * i + 1, l, mid, s);
+        buildSegmentTree(2 * i + 2, mid + 1, r, s);
+        segTree[i] = merge(segTree[2 * i + 1], segTree[2 * i + 2], mid - l + 1, r - mid);
+    }
+
+    void update(int i, int l, int r, int pos, char ch) {
+        if (l == r) { //l == r == pos
+            segTree[i] = { 1, 1, 1, ch, ch };
+            return;
+        }
+        int mid = l + (r - l) / 2;
+        if (pos <= mid) {
+            update(2 * i + 1, l, mid, pos, ch);
+        } else {
+            update(2 * i + 2, mid + 1, r, pos, ch);
+        }
+        segTree[i] = merge(segTree[2 * i + 1], segTree[2 * i + 2], mid - l + 1, r - mid);
+    }
+
     vector<int> longestRepeating(string s, string queryCharacters, vector<int>& queryIndices) {
-        int n = s.size();
+        n = s.size();
+        segTree.assign(4 * n, Node()); //segmen tree size 4*n
 
-        // segments: {start, end}
-        set<pair<int,int>> seg;
-        multiset<int> lens;
+        buildSegmentTree(0, 0, n - 1, s);
 
-        // build initial segments
-        for (int i = 0, j; i < n; i = j) {
-            j = i;
-            while (j < n && s[j] == s[i]) j++;
+        int k = queryIndices.size();
 
-            seg.insert({i, j - 1});
-            lens.insert(j - i);
+        vector<int> result(k);
+        for (int i = 0; i < k; i++) {
+            int pos = queryIndices[i];
+            char ch = queryCharacters[i];
+            update(0, 0, n - 1, pos, ch);
+            
+            result[i] = segTree[0].maxLen; //root node covers entire string
         }
 
-        vector<int> ans;
-
-        for (int q = 0; q < queryIndices.size(); q++) {
-            int idx = queryIndices[q];
-            char ch = queryCharacters[q];
-
-            if (s[idx] == ch) {
-                ans.push_back(*lens.rbegin());
-                continue;
-            }
-
-            // find segment containing idx
-            auto it = prev(seg.upper_bound({idx, n}));
-            auto [l, r] = *it;
-
-            seg.erase(it);
-            lens.erase(lens.find(r - l + 1));
-
-            // left part
-            if (l <= idx - 1) {
-                seg.insert({l, idx - 1});
-                lens.insert(idx - l);
-            }
-
-            // right part
-            if (idx + 1 <= r) {
-                seg.insert({idx + 1, r});
-                lens.insert(r - idx);
-            }
-
-            s[idx] = ch;
-
-            int nl = idx, nr = idx;
-
-            // merge left
-            auto cur = seg.lower_bound({idx, idx});
-            if (cur != seg.begin()) {
-                auto left = prev(cur);
-                if (s[left->first] == ch && left->second + 1 == idx) {
-                    nl = left->first;
-                    lens.erase(lens.find(left->second - left->first + 1));
-                    seg.erase(left);
-                }
-            }
-
-            // merge right
-            cur = seg.lower_bound({idx + 1, idx + 1});
-            if (cur != seg.end()) {
-                if (s[cur->first] == ch && cur->first == idx + 1) {
-                    nr = cur->second;
-                    lens.erase(lens.find(cur->second - cur->first + 1));
-                    seg.erase(cur);
-                }
-            }
-
-            seg.insert({nl, nr});
-            lens.insert(nr - nl + 1);
-
-            ans.push_back(*lens.rbegin());
-        }
-
-        return ans;
+        return result;
     }
 };
