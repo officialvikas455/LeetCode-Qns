@@ -7,7 +7,7 @@ public:
 
         unordered_map<char, int> count;
 
-        while(right < n) {
+        for(int i=0; i<n; i++) {
             count[s[right]]++;
         
             while(count[s[right]] > 2) {
