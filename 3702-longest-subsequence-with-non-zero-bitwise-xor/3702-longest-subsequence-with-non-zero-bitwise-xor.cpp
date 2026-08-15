@@ -3,18 +3,21 @@ public:
     int longestSubsequence(vector<int>& nums) {
         int n = nums.size();
 
-        vector<int> zeros(n, 0);
+        int resultXor = 0;
+        bool allZero = true;
 
-        if (nums == zeros) {
-            return 0;
+        for(int &x : nums){
+            resultXor = (resultXor^x);
+
+            if( x != 0){
+                allZero = false;
+            }
         }
 
-        int x = 0;
-
-        for (int num : nums) {
-            x ^= num;
+        if(allZero) {
+            return 0;  
         }
 
-        return x ? n : n - 1;
+        return (resultXor == 0 ) ? n-1: n;
     }
 };
