@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -610,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
