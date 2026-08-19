@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
+| [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
+| [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
+| [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
