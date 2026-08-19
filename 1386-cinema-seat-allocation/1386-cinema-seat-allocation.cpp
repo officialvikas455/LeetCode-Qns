@@ -1,33 +1,46 @@
 class Solution {
 public:
     int maxNumberOfFamilies(int n, vector<vector<int>>& reservedSeats) {
-        unordered_map<int, int> mp;
+        
+        unordered_map<int, set<int>> mp;
 
-        // Store reserved seats as a bitmask for each row
-        for (auto &seat : reservedSeats) {
-            int row = seat[0];
-            int col = seat[1];
-
-            mp[row] |= (1 << col);
+        // Store reserved seats row-wise
+        for (auto &x : reservedSeats) {
+            mp[x[0]].insert(x[1]);
         }
 
         int ans = 2 * (n - mp.size());
 
-        for (auto &[row, mask] : mp) {
-            bool left  = !(mask & (1 << 2)) &&
-                         !(mask & (1 << 3)) &&
-                         !(mask & (1 << 4)) &&
-                         !(mask & (1 << 5));
+        // Check only rows having reserved seats
+        for (auto &[row, seats] : mp) {
 
-            bool middle = !(mask & (1 << 4)) &&
-                          !(mask & (1 << 5)) &&
-                          !(mask & (1 << 6)) &&
-                          !(mask & (1 << 7));
+            bool left = true;
+            bool middle = true;
+            bool right = true;
 
-            bool right = !(mask & (1 << 6)) &&
-                         !(mask & (1 << 7)) &&
-                         !(mask & (1 << 8)) &&
-                         !(mask & (1 << 9));
+            // Check seats 2,3,4,5
+            for (int i = 2; i <= 5; i++) {
+                if (seats.count(i)) {
+                    left = false;
+                    break;
+                }
+            }
+
+            // Check seats 4,5,6,7
+            for (int i = 4; i <= 7; i++) {
+                if (seats.count(i)) {
+                    middle = false;
+                    break;
+                }
+            }
+
+            // Check seats 6,7,8,9
+            for (int i = 6; i <= 9; i++) {
+                if (seats.count(i)) {
+                    right = false;
+                    break;
+                }
+            }
 
             if (left && right)
                 ans += 2;
