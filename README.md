@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0198-house-robber) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
@@ -616,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0894-all-possible-full-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0894-all-possible-full-binary-trees) |
 ## Combinatorics
 |  |
@@ -719,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -727,4 +733,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0518-coin-change-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
