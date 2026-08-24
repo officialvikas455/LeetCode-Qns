@@ -1,59 +1,29 @@
-// class Solution {
-// public:
-//     int n;
-
-//     int solve(vector<int>& stones) {
-//         vector<int> res;
-
-//         int currSum = 0;
-
-//         for (int i = 0; i < n; i++) {
-//             currSum += stones[i];
-//             res.push_back(currSum);
-//         }
-
-//         int ans = res[n - 1];
-
-//         for (int i = n - 2; i >= 1; i--) {
-//             ans = max(ans, res[i] - ans);
-//         }
-
-//         return ans;
-//     }
-
-//     int stoneGameVIII(vector<int>& stones) {
-//         n = stones.size();
-
-//         return solve(stones);
-//     }
-// };
-
-
-
 class Solution {
 public:
     int n;
+    vector<int> dp;
 
-    int solve(vector<int>& stones) {
-        vector<int> res;
+    int solve(vector<int>& prefix, int i) {
+        if (i == n - 1)
+            return prefix[i];
 
-        int currSum = 0;
-        for (int i = 0; i < n; i++) {
-            currSum += stones[i];
-            res.push_back(currSum);
-        }
+        if (dp[i] != INT_MIN)
+            return dp[i];
 
-        int ans1 = res[n - 1];
-        for (int i = n - 2; i >= 1; i--) {
-            int ans2 = res[i] - ans1;
-            ans1 = max(ans1, ans2);
-        }
+        int take = prefix[i] - solve(prefix, i + 1);
 
-        return ans1;
+        return dp[i] = max(take, solve(prefix, i + 1));
     }
 
     int stoneGameVIII(vector<int>& stones) {
         n = stones.size();
-        return solve(stones);
+
+        for (int i = 1; i < n; i++) {
+            stones[i] += stones[i - 1];
+        }
+
+        dp.assign(n, INT_MIN);
+
+        return solve(stones, 1);
     }
 };
