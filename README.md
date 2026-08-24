@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -672,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -679,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 ## Longest Increasing Subsequence
 |  |
