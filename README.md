@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -744,4 +746,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
