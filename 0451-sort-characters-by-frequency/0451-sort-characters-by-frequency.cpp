@@ -13,7 +13,7 @@ public:
         for (auto& x : mpp) {
             pq.push({x.second, x.first});
         }
-        string ans;
+        string ans; // apend vector mien nhi hota
 
         while (!pq.empty()) {
             auto curr = pq.top();
