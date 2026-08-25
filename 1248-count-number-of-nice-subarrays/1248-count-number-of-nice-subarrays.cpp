@@ -1,26 +1,33 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        unordered_map<int, int> mp;
 
-        mp[0] = 1;
-
+    int atMost(vector<int>& nums, int k) {
+        int n = nums.size();
+        int left = 0;
         int odd = 0;
         int cnt = 0;
 
-        for (int x : nums) {
-            if (x % 2 != 0) {
+        for (int right = 0; right < n; right++) {
+
+            if (nums[right] % 2 != 0) {
                 odd++;
             }
 
-            // Need previous prefix with odd - k
-            if (mp.find(odd - k) != mp.end()) {
-                cnt += mp[odd - k];
+            while (odd > k) {
+                if (nums[left] % 2 != 0) {
+                    odd--;
+                }
+                left++;
             }
 
-            mp[odd]++;
+            // All subarrays ending at right
+            cnt += right - left + 1;
         }
 
         return cnt;
+    }
+
+    int numberOfSubarrays(vector<int>& nums, int k) {
+        return atMost(nums, k) - atMost(nums, k - 1);
     }
 };
