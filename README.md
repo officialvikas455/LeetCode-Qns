@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0662-maximum-width-of-binary-tree) |
@@ -502,11 +504,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
