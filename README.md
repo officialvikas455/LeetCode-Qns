@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0983-minimum-cost-for-tickets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0983-minimum-cost-for-tickets) |
+| [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
+| [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1248-count-number-of-nice-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
