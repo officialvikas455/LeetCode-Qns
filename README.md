@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3536-maximum-product-of-two-digits) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph Theory
 |  |
 | ------- |
