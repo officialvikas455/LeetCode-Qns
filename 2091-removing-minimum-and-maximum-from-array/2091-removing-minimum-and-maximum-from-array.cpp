@@ -10,7 +10,7 @@ public:
 
         int right = max(minEIdx, maxEIdx);
 
-        return min({left+1+n-right, right+1, n-left});
+        return min({left + 1 + n - right, right + 1, n - left});
         
     }
 };
