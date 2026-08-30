@@ -1,6 +1,3 @@
-
-
-
 class Solution {
 public:
     void dfs(int row, int col, int n, int m, vector<vector<int>>& image, vector<vector<bool>>& vis, int newColor, int oldColor) {
