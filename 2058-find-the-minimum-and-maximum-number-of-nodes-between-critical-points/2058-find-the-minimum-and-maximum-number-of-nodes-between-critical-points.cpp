@@ -1,54 +1,44 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        
-        vector<int> ans = {-1, -1};
 
-        if (head == NULL || head->next == NULL || head->next->next == NULL)
-            return ans;
+        vector<int> points;
 
         ListNode* prev = head;
         ListNode* curr = head->next;
 
         int index = 1;
 
-        int first = -1;
-        int last = -1;
-
-        int minDist = INT_MAX;
-
         while (curr->next != NULL) {
 
-            ListNode* nexti = curr->next;
+            ListNode* next = curr->next;
 
-            // Critical point
-            if ((curr->val > prev->val && curr->val > nexti->val) ||
-                (curr->val < prev->val && curr->val < nexti->val)) {
-
-                // First critical point
-                if (first == -1) {
-                    first = index;
-                }
-
-                // Distance from previous critical point
-                if (last != -1) {
-                    minDist = min(minDist, index - last);
-                }
-
-                last = index;
+            // local maximum OR local minimum
+            if ((curr->val > prev->val && curr->val > next->val) ||
+                (curr->val < prev->val && curr->val < next->val)) {
+                
+                points.push_back(index);
             }
 
             prev = curr;
-            curr = nexti;
+            curr = next;
             index++;
         }
 
         // Less than 2 critical points
-        if (first == last)
+        if (points.size() < 2)
             return {-1, -1};
 
-        int maxDist = last - first;
+        int mini = INT_MAX;
 
-        return {minDist, maxDist};
+        // Minimum distance between consecutive critical points
+        for (int i = 1; i < points.size(); i++) {
+            mini = min(mini, points[i] - points[i - 1]);
+        }
+
+        // Maximum distance = first to last
+        int maxi = points.back() - points.front();
+
+        return {mini, maxi};
     }
 };
