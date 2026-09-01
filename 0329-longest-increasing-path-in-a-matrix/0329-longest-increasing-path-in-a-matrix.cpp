@@ -9,19 +9,19 @@ public:
         int ans = 1; 
         
         // UP
-        if(r-1 >= 0 && matrix[r][c] > matrix[r-1][c]){
+        if(r-1 >= 0 && matrix[r][c] < matrix[r-1][c]){
             ans = max(ans, solve(r-1, c, matrix) + 1);
         }
         // DOWN
-        if(r+1 < matrix.size() && matrix[r][c] > matrix[r+1][c]){
+        if(r+1 < matrix.size() && matrix[r][c] < matrix[r+1][c]){
             ans = max(ans, solve(r+1, c, matrix) + 1);
         }
         // LEFT
-        if(c-1 >= 0 && matrix[r][c] > matrix[r][c-1]){
+        if(c-1 >= 0 && matrix[r][c] < matrix[r][c-1]){
             ans = max(ans, solve(r, c-1, matrix) + 1);
         }
         // RIGHT
-        if(c+1 < matrix[0].size() && matrix[r][c] > matrix[r][c+1]){
+        if(c+1 < matrix[0].size() && matrix[r][c] < matrix[r][c+1]){
             ans = max(ans, solve(r, c+1, matrix) + 1);
         }
         
