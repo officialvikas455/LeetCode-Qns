@@ -24,7 +24,7 @@ public:
                         if(color[neigh] == -1) {
 
                             // Give opposite color
-                            color[neigh] = 1 - color[curr];
+                            color[neigh] = ! color[curr];
 
                             q.push(neigh);
                         }
