@@ -317,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3477-fruits-into-baskets-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3731-find-missing-elements) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
 | ------- |
@@ -595,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
