@@ -1,36 +1,59 @@
 class Solution {
-private:
-    bool dfs(int node, const vector<vector<int>>& adj, vector<bool>& vis, vector<bool>& path) {
-        vis[node] = path[node] = true;
+public:
 
-        for (int next : adj[node]) {
-            if (!vis[next]) {
-                if (dfs(next, adj, vis, path)) return true;
-            } else if (path[next]) {
-                return true;
+    bool topo(unordered_map<int, vector<int>> &adj,
+              int n,
+              vector<int> &indegree) {
+
+        queue<int> que;
+
+        int count = 0;
+
+        // Nodes with indegree 0
+        for(int i = 0; i < n; i++) {
+            if(indegree[i] == 0) {
+                que.push(i);
             }
         }
-        
-        path[node] = false;
-        return false;
+
+        while(!que.empty()) {
+
+            int u = que.front();
+            que.pop();
+
+            count++;
+
+            for(int &v : adj[u]) {
+
+                indegree[v]--;
+
+                if(indegree[v] == 0) {
+                    que.push(v);
+                }
+            }
+        }
+
+        return count == n;
     }
 
-public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);
-        for (const auto& pre : prerequisites) {
-            adj[pre[1]].push_back(pre[0]);
+
+        unordered_map<int, vector<int>> adj;
+        vector<int> indegree(numCourses, 0);
+
+        for(auto &vec : prerequisites) {
+
+            int a = vec[0];
+            int b = vec[1];
+
+            // b ---> a
+            adj[b].push_back(a);
+
+            // edge is going INTO a
+            indegree[a]++;
         }
 
-        vector<bool> vis(numCourses, false);
-        vector<bool> path(numCourses, false);
-
-        for (int i = 0; i < numCourses; ++i) {
-            if (!vis[i]) {
-                if (dfs(i, adj, vis, path)) return false;
-            }
-        }
-
-        return true;
+        // If cycle exists -> cannot finish
+        return topo(adj, numCourses, indegree);
     }
 };
