@@ -1,17 +1,21 @@
 class Solution {
-    static constexpr int MOD = 1e9 + 7;
-
 public:
     int distinctSubseqII(string s) {
-        int tot = 0, dp[26]{};
+        int n = s.size();
+        int MOD = 1e9 + 7;
 
-        for (auto& c : s) {
-            c -= 'a';
-            int add = (tot - dp[c] + MOD) % MOD;
-            dp[c] = 1 + tot;
-            tot = (dp[c] + add) % MOD;
+        vector<int> dp(n, 1);
+        int result = 0;
+
+        for(int i = 0; i < n; i++){
+            // Try extending subsequences ending before i
+            for(int j = 0; j < i; j++){
+                if(s[i] != s[j]) {
+                    dp[i] = (dp[i] + dp[j]) % MOD;
+                }
+            }
+            result = (result + dp[i]) % MOD;
         }
-
-        return tot;
+        return result;
     }
 };
