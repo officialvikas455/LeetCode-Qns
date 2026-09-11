@@ -5,32 +5,17 @@ public:
         int n = digits.size();
 
         for (int i = 0; i < n; i++) {
-
-            // Hundreds digit cannot be 0
-            if (digits[i] == 0)
-                continue;
-
             for (int j = 0; j < n; j++) {
-
-                // Cannot reuse the same index
-                if (j == i)
-                    continue;
-
                 for (int k = 0; k < n; k++) {
-
-                    // Cannot reuse i or j
-                    if (k == i || k == j)
-                        continue;
-
-                    // Last digit must be even
-                    if (digits[k] % 2 != 0)
+                    if (i == j || i == k || j == k)
                         continue;
 
                     int num = digits[i] * 100
                             + digits[j] * 10
                             + digits[k];
-
-                    st.insert(num);
+                    if (num >= 100 && num % 2 == 0) {
+                        st.insert(num);
+                    }
                 }
             }
         }
