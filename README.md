@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0746-min-cost-climbing-stairs) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
