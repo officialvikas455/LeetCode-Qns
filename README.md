@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
@@ -934,5 +935,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
