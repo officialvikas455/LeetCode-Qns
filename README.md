@@ -942,4 +942,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0836-rectangle-overlap) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
