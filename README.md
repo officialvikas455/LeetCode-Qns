@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1563-stone-game-v) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
