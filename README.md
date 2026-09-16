@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0796-rotate-string) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1781-sum-of-beauty-of-all-substrings) |
