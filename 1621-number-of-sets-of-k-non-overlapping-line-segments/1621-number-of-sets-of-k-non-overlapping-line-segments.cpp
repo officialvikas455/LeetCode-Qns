@@ -1,40 +1,31 @@
 class Solution {
 public:
-    static const long long MOD = 1000000007LL;
+    int t[1001][1001];
+    int M = 1e9 + 7;
 
-    long long modPow(long long base, long long exp) {
-        long long result = 1;
+    int solve(int n, int k, int i) {
+        if(k == 0) return 1;
+        if(i >= n) return 0;
 
-        while (exp > 0) {
-            if (exp & 1LL) {
-                result = result * base % MOD;
-            }
+        if(t[k][i] != -1)
+            return t[k][i];
 
-            base = base * base % MOD;
+        // skip
+        long long skip = solve(n, k, i + 1) % M;
 
-            exp >>= 1LL;
+        // take
+        long long take = 0;
+
+        for(int j = i + 1; j < n; j++) {
+            take = (take + solve(n, k - 1, j)) % M;
         }
 
-        return result;
+        return t[k][i] = (take + skip) % M;
     }
 
     int numberOfSets(int n, int k) {
-        long long N = n + k - 1;
-        long long R = 2LL * k;
+        memset(t, -1, sizeof(t));
 
-        R = min(R, N - R);
-
-        long long numerator = 1;
-        long long denominator = 1;
-
-        for (long long i = 1; i <= R; ++i) {
-            numerator = numerator * (N - R + i) % MOD;
-
-            denominator = denominator * i % MOD;
-        }
-
-        long long inverseDenominator = modPow(denominator, MOD - 2);
-
-        return static_cast<int>(numerator * inverseDenominator % MOD);
+        return solve(n, k, 0);
     }
 };
