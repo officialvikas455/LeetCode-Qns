@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
