@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2206-divide-array-into-equal-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
