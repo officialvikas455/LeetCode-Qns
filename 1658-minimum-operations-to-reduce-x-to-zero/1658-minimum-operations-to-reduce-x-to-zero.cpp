@@ -3,11 +3,7 @@ class Solution {
 public:
     int minOperations(vector<int>& nums, int x) {
         int n = nums.size();
-
-        int totalSum = 0;
-        for(int num : nums) {
-            totalSum += num;
-        }
+        int totalSum = accumulate(nums.begin(), nums.end(), 0);
 
         int target = totalSum - x;
 
