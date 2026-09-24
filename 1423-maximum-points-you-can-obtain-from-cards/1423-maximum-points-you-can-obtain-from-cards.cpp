@@ -9,16 +9,11 @@ public:
             return sum;
 
         int maxScore = 0;
-
-        // First k cards from left
         for (int i = 0; i < k; i++) {
             maxScore += nums[i];
         }
 
         int right = n - 1;
-
-        // Ek-ek left card ko remove karke
-        // right se ek card add karenge
         int currentScore = maxScore;
 
         for (int i = k - 1; i >= 0; i--) {
