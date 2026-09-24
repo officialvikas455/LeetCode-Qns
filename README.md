@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
+| [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0493-reverse-pairs) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0324-wiggle-sort-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1006,4 +1010,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
