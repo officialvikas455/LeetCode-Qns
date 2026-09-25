@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Queue
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1446-consecutive-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1446-consecutive-characters) |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1248-count-number-of-nice-subarrays) |
 | [1386-cinema-seat-allocation](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -637,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0785-is-graph-bipartite) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1020-number-of-enclaves) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -772,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
+| [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Iterator
 |  |
