@@ -9,7 +9,7 @@ public:
                if(s[i] == '(' ){
                 cnt++;
             }
-            else if(cnt) cnt--;
+            else if(cnt > 0) cnt--;
             else ans++;           
         }
         return ans + cnt;
