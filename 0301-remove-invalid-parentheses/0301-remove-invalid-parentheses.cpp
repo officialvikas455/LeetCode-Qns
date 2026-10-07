@@ -1,47 +1,47 @@
 class Solution {
 public:
+    int n;
+    unordered_set<string> st;
+    int maxlen;
+
+    void solve(string& s, int i, string& curr, int count) {
+        if (count < 0)
+            return;
+
+        if (i == n) {
+            if (count == 0) {
+                if (curr.length() > maxlen) {
+                    maxlen = curr.length();
+                    st.clear();
+                }
+                if (curr.length() == maxlen) {
+                    st.insert(curr);
+                }
+            }
+            return;
+        }
+
+        if(s[i] != '(' && s[i] != ')'){
+            curr.push_back(s[i]);
+            solve(s,i+1,curr, count);
+            curr.pop_back();
+            return;
+        }
+        curr.push_back(s[i]);
+        solve(s,i+1,curr,count+ (s[i]=='(' ? 1: -1));
+        curr.pop_back();
+        solve(s,i+1,curr,count);
+    }
     vector<string> removeInvalidParentheses(string s) {
-        vector<string> res;
-        forward(s, res, 0, 0);
+        n = s.length();
+        st.clear();
 
-        return res;
-    }
+        maxlen = 0;
 
-private:
-    void forward(string s, auto& res, int li, int lj) {
-        int bal = 0;
+        string curr = "";
 
-        for (int i = li; i < s.length(); i++) {
-            bal += (s[i] == '(') - (s[i] == ')');
+        solve(s, 0, curr, 0);
 
-            if (bal >= 0) continue;
-
-            for (int j = lj; j <= i; j++)
-                if (s[j] == ')' && (j == lj || s[j - 1] != ')'))
-                    forward(s.substr(0, j) + s.substr(j + 1), res, i, j);
-
-            return;
-        }
-
-        backward(s, res, s.length() - 1, s.length() - 1);
-    }
-
-    void backward(string s, auto& res, int ri, int rj) {
-        int bal = 0;
-
-        for (int i = ri; i >= 0; i--) {
-            bal += (s[i] == ')') - (s[i] == '(');
-
-            if (bal >= 0) continue;
-
-            for (int j = rj; j >= i; j--)
-                if (s[j] == '(' && (j == rj || s[j + 1] != '('))
-                    backward(s.substr(0, j) + s.substr(j + 1), res, i - 1,
-                             j - 1);
-
-            return;
-        }
-
-        res.push_back(s);
+        return vector<string>(begin(st), end(st));
     }
 };
