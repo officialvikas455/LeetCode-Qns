@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0404-sum-of-left-leaves](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0404-sum-of-left-leaves) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -820,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0047-permutations-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3348-smallest-divisible-digit-product-ii) |
