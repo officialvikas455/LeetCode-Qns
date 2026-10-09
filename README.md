@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0055-jump-game) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0054-spiral-matrix) |
@@ -489,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
