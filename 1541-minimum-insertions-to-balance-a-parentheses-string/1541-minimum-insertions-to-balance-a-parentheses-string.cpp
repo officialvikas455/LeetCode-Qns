@@ -1,40 +1,30 @@
-
 class Solution {
 public:
     int minInsertions(string s) {
-        int n = s.length();
-        int openCnt = 0;
-        int closeCnt = 0;
+        int n = s.size();
+        int result = 0;
 
-        // for (char ch : s) {
-        //     if (ch == '(') {
-        //         openCnt++;
-        //     } else {
-        //         closeCnt++;
-        //     }
-        // }
+        int i = 0;
+        int count = 0;
 
-        int ans = 0;
-        openCnt = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (s[i] == '(') {
-                openCnt++;
-            } else {
-                if (i + 1 < n && s[i + 1] == ')') {
-                    i++;
-                } else {
-                    ans++;
+        while(i < n){
+            if(s[i] == '('){
+                count++;
+                i++;
+            }else{
+                if(count > 0){
+                    count--;
+                }else{
+                    result++;
                 }
-
-                if (openCnt > 0) {
-                    openCnt--;
-                } else {
-                    ans++;
+                if(i+1 < n && s[i+1] == ')'){
+                    i+=2;
+                }else{
+                    result++;
+                    i++;
                 }
             }
         }
-
-        return ans + 2 * openCnt;
+        return result + count*2;
     }
 };
