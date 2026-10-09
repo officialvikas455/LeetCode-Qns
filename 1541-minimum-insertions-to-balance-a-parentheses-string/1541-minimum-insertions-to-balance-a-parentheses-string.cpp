@@ -6,13 +6,13 @@ public:
         int openCnt = 0;
         int closeCnt = 0;
 
-        // for (char ch : s) {
-        //     if (ch == '(') {
-        //         openCnt++;
-        //     } else {
-        //         closeCnt++;
-        //     }
-        // }
+        for (char ch : s) {
+            if (ch == '(') {
+                openCnt++;
+            } else {
+                closeCnt++;
+            }
+        }
 
         int ans = 0;
         openCnt = 0;
