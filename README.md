@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -500,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0055-jump-game) |
