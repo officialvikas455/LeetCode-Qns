@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0877-stone-game) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0354-russian-doll-envelopes) |
 | [0493-reverse-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0493-reverse-pairs) |
+| [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
