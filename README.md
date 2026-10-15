@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0066-plus-one) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
