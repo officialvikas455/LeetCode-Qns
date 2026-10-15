@@ -4,13 +4,12 @@ public:
         int n = s.length();
         unordered_set<char> st;
         int result = 0;
-        int oddCnt = 0;
 
        for(char &ch : s){
          if(st.count(ch)){
             result += 2;
             st.erase(ch);
-         }else{
+         } else{
             st.insert(ch);
          }
        }
