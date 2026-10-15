@@ -2,21 +2,23 @@ class Solution {
 public:
     int longestPalindrome(string s) {
         int n = s.length();
-        unordered_set<char> st;
+        unordered_map<char, int> mp;
+
+        for(char &ch : s){
+            mp[ch]++;
+        }
         int result = 0;
+        bool oddFreq = false;
 
-       for(char &ch : s){
-         if(st.count(ch)){
-            result += 2;
-            st.erase(ch);
-         } else{
-            st.insert(ch);
-         }
-       }
-       if(!st.empty()){
-          result++; // making odd length palindrome
-       }
-       return result;
-
+        for(auto &it : mp){
+            if(it.second % 2 == 0){
+                result += it.second;
+            }else{
+                result += it.second - 1;
+                oddFreq = true;
+            }
+        }
+        if(oddFreq) result++;
+        return result;
     }
 };
