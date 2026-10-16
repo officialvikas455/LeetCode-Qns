@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3525-find-x-value-of-array-ii) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3477-fruits-into-baskets-ii) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -913,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -976,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
