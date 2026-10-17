@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0344-reverse-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0263-ugly-number) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
