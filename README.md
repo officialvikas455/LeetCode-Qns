@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
@@ -955,6 +956,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
