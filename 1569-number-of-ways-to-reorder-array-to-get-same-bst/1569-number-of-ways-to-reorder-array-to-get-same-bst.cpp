@@ -1,36 +1,50 @@
+
 class Solution {
 public:
-    int numOfWays(vector<int>& nums) {
-        const int MOD = 1e9 + 7;
+    typedef long long ll;
+    ll MOD = 1e9 + 7;
+
+    vector<vector<ll>> PT;
+
+    int solve(vector<int>& nums) {
         int n = nums.size();
-        vector<long long> fact(n + 1, 1), inv(n + 1, 1);
-        for (int i = 1; i <= n; i++) fact[i] = fact[i - 1] * i % MOD;
-        inv[n] = modPow(fact[n], MOD - 2, MOD);
-        for (int i = n - 1; i >= 0; i--) inv[i] = inv[i + 1] * (i + 1) % MOD;
-        auto comb = [&](int a, int b) -> long long {
-            if (b < 0 || b > a) return 0;
-            return fact[a] * inv[b] % MOD * inv[a - b] % MOD;
-        };
-        function<long long(vector<int>&)> ways = [&](vector<int>& arr) -> long long {
-            int m = arr.size();
-            if (m <= 2) return 1;
-            vector<int> left, right;
-            for (int x : arr) {
-                if (x < arr[0]) left.push_back(x);
-                else if (x > arr[0]) right.push_back(x);
+
+        if (n < 3) return 1;
+
+        vector<int> left_array, right_array;
+        int root = nums[0];
+
+        for (int i = 1; i < n; i++) {
+            if (nums[i] < root) {
+                left_array.push_back(nums[i]);
+            } else {
+                right_array.push_back(nums[i]);
             }
-            return comb(m - 1, left.size()) * ways(left) % MOD * ways(right) % MOD;
-        };
-        return (ways(nums) - 1 + MOD) % MOD;
-    }
-private:
-    long long modPow(long long base, long long exp, long long mod) {
-        long long res = 1;
-        while (exp) {
-            if (exp & 1) res = res * base % mod;
-            base = base * base % mod;
-            exp >>= 1;
         }
-        return res;
+
+        ll x = solve(left_array) % MOD;
+        ll y = solve(right_array) % MOD;
+
+        ll z = PT[n - 1][left_array.size()];
+
+        return ((x * y) % MOD * z) % MOD;
+    }
+
+    int numOfWays(vector<int>& nums) {
+        int n = nums.size();
+
+        PT.resize(n + 1);
+
+        // Populate Pascal's triangle
+        for (int i = 0; i <= n; i++) {
+            PT[i] = vector<ll>(i + 1, 1);
+
+            for (int j = 1; j < i; j++) {
+                PT[i][j] =
+                    (PT[i - 1][j] + PT[i - 1][j - 1]) % MOD;
+            }
+        }
+
+        return (solve(nums) - 1 + MOD) % MOD;
     }
 };
