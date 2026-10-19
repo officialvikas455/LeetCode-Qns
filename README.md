@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0162-find-peak-element) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
