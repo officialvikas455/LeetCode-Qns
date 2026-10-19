@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> arrayRankTransform(vector<int>& arr) {
-        vector<int> temp(arr.begin(), arr.end());
+        vector<int> temp = arr;
         sort(temp.begin(), temp.end());
 
         unordered_map<int, int> mp;
@@ -9,7 +9,7 @@ public:
 
 
         for(int i=0; i<temp.size(); i++){
-            if(mp.find(temp[i]) == mp.end()){
+            if(!mp.count(temp[i])){
                 mp[temp[i]] = rank++;
             }
         }
