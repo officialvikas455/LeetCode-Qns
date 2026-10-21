@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
@@ -855,6 +856,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0222-count-complete-tree-nodes) |
