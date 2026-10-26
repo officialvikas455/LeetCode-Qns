@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
+| [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2180-count-integers-with-even-digit-sum) |
