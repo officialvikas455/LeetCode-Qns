@@ -28,9 +28,29 @@ void DFS(Node* node, Node* clone_node) {
             mp[n] = clone;
             clone_node->neighbors.push_back(clone);
 
-            DFS(n,clone);
+            DFS(n, clone);
         } else {
             clone_node->neighbors.push_back(mp[n]);
+        }
+    }
+}
+
+void BFS(queue<Node*>& que) {
+    while (!que.empty()) {
+        Node* node = que.front();
+        Node* clone_node = mp[node];
+        que.pop();
+
+        for (Node* n : node->neighbors) {
+            if (mp.find(n) == mp.end()) {
+                Node* clone = new Node(n->val);
+                mp[n] = clone;
+                clone_node->neighbors.push_back(clone);
+
+                que.push(n);
+            } else {
+                clone_node->neighbors.push_back(mp[n]);
+            }
         }
     }
 }
@@ -50,7 +70,10 @@ public:
         //  so stored them in a. map
 
         mp[node] = clone_node;
-        DFS(node, clone_node);
+        // DFS(node, clone_node);
+        queue<Node*> que;
+        que.push(node);
+        BFS(que);
 
         return clone_node;
     }
