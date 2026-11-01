@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0912-sort-an-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0368-largest-divisible-subset) |
 | [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0493-reverse-pairs) |
