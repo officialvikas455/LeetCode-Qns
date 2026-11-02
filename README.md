@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
+| [0583-delete-operation-for-two-strings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0516-longest-palindromic-subsequence) |
+| [0583-delete-operation-for-two-strings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0856-score-of-parentheses) |
@@ -1296,5 +1298,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
