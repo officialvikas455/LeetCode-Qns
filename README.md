@@ -1293,4 +1293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
