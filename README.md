@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
