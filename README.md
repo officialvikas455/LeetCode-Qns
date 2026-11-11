@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3838-weighted-word-mapping](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3838-weighted-word-mapping) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3731-find-missing-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Monotonic Stack
 |  |
@@ -977,6 +980,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0912-sort-an-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Linked List
 |  |
@@ -1109,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1195,6 +1200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3525-find-x-value-of-array-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Nim Game
 |  |
@@ -1276,6 +1282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0912-sort-an-array) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Treap
 |  |
 | ------- |
