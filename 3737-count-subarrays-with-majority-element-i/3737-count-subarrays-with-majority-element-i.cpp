@@ -14,7 +14,7 @@ public:
 
                 int len = j - i + 1;
 
-                if (freq > len / 2) {
+                if (2 * freq > len) {
                     cnt++;
                 }
             }
