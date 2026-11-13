@@ -235,11 +235,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Math
 |  |
 | ------- |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3483-unique-3-digit-even-numbers) |
@@ -625,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Greedy
 |  |
 | ------- |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Simulation
 |  |
@@ -1199,6 +1204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3477-fruits-into-baskets-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3477-fruits-into-baskets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1356,4 +1362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1584-min-cost-to-connect-all-points) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
