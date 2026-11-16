@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0279-perfect-squares) |
@@ -1043,6 +1044,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0258-add-digits) |
 | [0866-prime-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0866-prime-palindrome) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1079,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1260-shift-2d-grid) |
