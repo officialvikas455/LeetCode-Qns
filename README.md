@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2409-count-days-spent-together](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2409-count-days-spent-together) |
 | [2527-find-xor-beauty-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2527-find-xor-beauty-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2544-alternating-digit-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2527-find-xor-beauty-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2553-separate-the-digits-in-an-array) |
 | [2747-count-zero-request-servers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2778-sum-of-squares-of-special-elements) |
