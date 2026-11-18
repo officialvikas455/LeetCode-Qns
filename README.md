@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0189-rotate-array) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0139-word-break) |
