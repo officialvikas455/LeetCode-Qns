@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1248-count-number-of-nice-subarrays) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0912-sort-an-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0983-minimum-cost-for-tickets) |
 | [1004-max-consecutive-ones-iii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-fruit-into-baskets](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1048-longest-string-chain) |
