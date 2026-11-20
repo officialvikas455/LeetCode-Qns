@@ -1,14 +1,56 @@
 class Solution {
 public:
-    int maxSelectedElements(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        unordered_map<int, int> dp;
-        int ans = 0;
-        for (int num : nums) {
-            dp[num + 1] = dp[num] + 1;
-            dp[num] = dp[num - 1] + 1;
-            ans = max({ans, dp[num], dp[num + 1]});
+    int n;
+    vector<vector<int>> memo;
+
+    int findMethod(vector<int>& nums, int start, int target) {
+        int j = lower_bound(nums.begin() + start, nums.end(), target)
+                - nums.begin();
+
+        if (j < n && nums[j] == target)
+            return j;
+
+        return -1;
+    }
+
+    int solve(int i, int inc, vector<int>& nums) {
+
+        if (memo[i][inc] != -1)
+            return memo[i][inc];
+
+        int currVal = nums[i] + inc;
+        int len = 1;
+
+        int j = findMethod(nums, i + 1, currVal + 1);
+
+        if (j != -1) {
+            len = max(len, 1 + solve(j, 0, nums));
         }
-        return ans;
+
+        j = findMethod(nums, i + 1, currVal);
+
+        if (j != -1) {
+            len = max(len, 1 + solve(j, 1, nums));
+        }
+
+        return memo[i][inc] = len;
+    }
+
+    int maxSelectedElements(vector<int>& nums) {
+        n = nums.size();
+
+        sort(nums.begin(), nums.end());
+
+        memo.assign(n, vector<int>(2, -1));
+
+        int result = 1;
+
+        for (int i = 0; i < n; i++) {
+            result = max({result,
+                          solve(i, 0, nums),
+                          solve(i, 1, nums)});
+        }
+
+        return result;
     }
 };
