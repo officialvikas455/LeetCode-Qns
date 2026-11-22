@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0713-subarray-product-less-than-k) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
+| [0523-continuous-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0836-rectangle-overlap) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0621-task-scheduler) |
@@ -1226,6 +1230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0523-continuous-subarray-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
