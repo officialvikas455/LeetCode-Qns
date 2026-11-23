@@ -1,14 +1,18 @@
 class Solution {
-    public:
-        int countCompleteSubarrays(vector<int>& nums) {
-            int k = unordered_set<int>(nums.begin(),nums.end()).size(), res = 0;
-            for (int i = 0; i < nums.size(); i++) {
-                unordered_set<int> st;
-                for (int j = i; j < nums.size(); j++) {
-                    st.insert(nums[j]);
-                    if (st.size() == k) res++;
-                }
+public:
+    int countCompleteSubarrays(vector<int>& nums, int left = 0, int res = 0) {
+        int k = unordered_set<int>(nums.begin(),nums.end()).size(); // count number of distinct elements
+        unordered_map<int, int> mpp;
+
+        for (int i = 0; i < nums.size(); ++i) {
+            mpp[nums[i]]++;
+            while (mpp.size() == k) {
+                res += nums.size() - i;  
+                mpp[nums[left]]--;
+                if (mpp[nums[left]] == 0) mpp.erase(nums[left]);
+                left++;
             }
-            return res;
         }
-    };
+        return res;
+    }
+};
