@@ -1,13 +1,7 @@
 class Solution {
 public:
     bool canAliceWin(int n) {
-        int st = 10;
-        int steps = 0;
-        while(n >= st){
-            n -= st;
-            st--;
-            steps++;
-        }
-        return (steps % 2 == 1) ? true : false;
+        int k = (21 - sqrt(441-8*n))/2;
+        return (k%2 == 1) ? 1 : 0;
     }
 };
