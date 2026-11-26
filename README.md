@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1872-stone-game-viii) |
 | [1991-find-the-middle-index-in-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/1991-find-the-middle-index-in-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3312-sorted-gcd-pair-queries](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3312-sorted-gcd-pair-queries) |
 | [3364-minimum-positive-sum-subarray](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/officialvikas455/LeetCode-Qns/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2553-separate-the-digits-in-an-array) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/officialvikas455/LeetCode-Qns/tree/master/2778-sum-of-squares-of-special-elements) |
