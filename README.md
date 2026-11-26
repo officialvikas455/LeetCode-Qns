@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0096-unique-binary-search-trees) |
@@ -1145,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0326-power-of-three) |
 | [0486-predict-the-winner](https://github.com/officialvikas455/LeetCode-Qns/tree/master/0486-predict-the-winner) |
