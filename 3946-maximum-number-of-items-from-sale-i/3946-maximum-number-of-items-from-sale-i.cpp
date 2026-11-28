@@ -36,7 +36,28 @@ public:
                 copies[i] = copy;
             }
         }
-        memset(t,-1, sizeof(t));
-        return solve(n,budget,items,copies,cheapestPrice);
+
+        memset(t, 0, sizeof(t));
+
+        //base case
+
+        for(int b=0; b <= budget; b++){
+            t[0][b] = b /cheapestPrice;
+        }
+
+        for(int i=1; i<=n; i++){
+            for(int b=0; b<=budget; b++){
+                int price = items[i-1][1];
+                int take = 0;
+                if(price <= b){
+                    take = 1 + copies[i-1] + t[i-1][b-price];
+                }
+                int skip = t[i-1][b];
+                t[i][b] = max(take,skip);
+            }
+           
+        }
+        return t[n][budget];
+        // return solve(n,budget,items,copies,cheapestPrice);
     }
 };
